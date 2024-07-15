@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+uploads/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Build directories
+build/
+dist/
+
+# Environment variables
+.env
+
+
+# Windows system files
+Thumbs.db
+
+# IDE directories and files
+.idea/
+.vscode/
+*.iml
